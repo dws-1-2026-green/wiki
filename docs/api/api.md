@@ -106,7 +106,7 @@ _11.04.2026 Tip_
 
   "subscription": {
     "id": "sub_01H...", // id подписки в сервисе подписок
-    "url": "https://example.com/webhooks/orders",
+    "destination_url": "https://example.com/webhooks/orders",
     "method": "POST",
     "headers": {
       "Content-Type": "application/json"
@@ -142,7 +142,7 @@ _11.04.2026 Tip_
 
   "subscription": {
     "id": "sub_01H...", // id подписки в сервисе подписок
-    "url": "https://example.com/webhooks/orders",
+    "destination_url": "https://example.com/webhooks/orders",
     "method": "POST",
     "headers": {
       "Content-Type": "application/json"
@@ -159,7 +159,7 @@ _11.04.2026 Tip_
 В качестве выходных данных сервис доставки выполняет HTTP запрос:
 
 - Метод HTTP запроса получается из поля "subscription.method"
-- url запроса получается из поля "subscription.url"
+- url запроса получается из поля "subscription.destination_url"
 - Запрос содержит заголовки из поля "subscription.headers"
 - Запрос передает данные из поля "event.data"
   - В случае POST запроса данные передаются в теле в формате JSON

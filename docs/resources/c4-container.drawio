@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="1Usoh1T5NGmHRIUC36LT">
-    <mxGraphModel dx="2005" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,24 +82,6 @@
               <mxPoint as="offset" />
               <mxPoint x="986" y="510" as="sourcePoint" />
               <mxPoint x="980" y="680" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Description="Агрегирует события&#xa;для сервиса подписок" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="ws83JUvRxNdUBUizSZuq-20">
-          <mxCell edge="1" parent="1" source="SNahbkR35GgcSv79BQWK-4" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;" target="SNahbkR35GgcSv79BQWK-7">
-            <mxGeometry relative="1" width="240" as="geometry">
-              <mxPoint as="offset" />
-              <mxPoint x="874" y="590" as="sourcePoint" />
-              <mxPoint x="610" y="780" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Type="Relationship" c4Description="Получает адрес клиента&#xa;для сервиса отправки вебхуков" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="ws83JUvRxNdUBUizSZuq-21">
-          <mxCell edge="1" parent="1" source="SNahbkR35GgcSv79BQWK-7" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;" target="SNahbkR35GgcSv79BQWK-8">
-            <mxGeometry relative="1" width="240" x="-0.0026" as="geometry">
-              <mxPoint as="offset" />
-              <mxPoint x="670" y="710" as="sourcePoint" />
-              <mxPoint x="950" y="710" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>

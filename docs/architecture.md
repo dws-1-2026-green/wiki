@@ -1,18 +1,21 @@
 # Архитектура системы доставки вебхуков "WebHook Delivery Engine"
 
+[ссылка на редактирование][edit-c4-arch]
+
+[edit-c4-arch]: https://app.diagrams.net/#Hdws-1-2026-green%252Fwiki%252Fmain%252Fdocs%252Fresources%252Fc4-arch.drawio
+
+
 ## Диаграмма контектса системы: C4 Context
 
-Здесь представлено общее видение системы в контексте взаимодействия с внешними системами ([ссылка на редактирование][edit-c4-context]).
+Здесь представлено общее видение системы в контексте взаимодействия с внешними системами.
 
-![](./resources/c4-context.drawio.png)
-
-[edit-c4-context]: https://app.diagrams.net/?src=about#Hdws-1-2026-green%2Fwiki%2Fmain%2Fdocs%2Fresources%2Fc4-context.drawio
+![](./resources/c4-context.png)
 
 
 ## Диаграмма контейнеров системы: C4 Container
 
-Здесь представлено общее видение системы в виде обособленных взаимодействующих элементов системы ([ссылка на редактирование][edit-c4-container]).
+Здесь представлено общее видение системы в виде обособленных взаимодействующих элементов системы.
 
-![](./resources/c4-container.drawio.png)
+![](./resources/c4-container.png)
 
-[edit-c4-container]: https://app.diagrams.net/?src=about#Hdws-1-2026-green%2Fwiki%2Fmain%2Fdocs%2Fresources%2Fc4-container.drawio
+
